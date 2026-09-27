@@ -1,0 +1,3 @@
+[console_scripts]
+gameloc = gameloc.cli:main
+gameloc-gui = gameloc.webui:serve
